@@ -1,13 +1,14 @@
 {
   "name": "Control de Camiones",
-  "version": "1.2.0",
+  "version": "1.3.0",
   "releasedAt": "2026-11-18",
-  "summary": "Se incorpora la comprobación de nuevas versiones mediante un manifiesto HTTPS configurable.",
+  "summary": "Se incorpora el ordenamiento de pestañas mediante arrastrar y soltar.",
   "changes": [
-    "La pestaña de versión permite guardar la dirección pública de un manifiesto de actualizaciones.",
-    "La aplicación compara la versión instalada con la última versión publicada.",
-    "Si hay una versión nueva, muestra las novedades y el enlace de descarga.",
-    "La comprobación no instala cambios automáticamente y no modifica los datos de la empresa."
+    "Ahora se pueden reordenar las pestañas arrastrándolas y soltándolas, sin usar flechas.",
+    "El orden elegido se guarda automáticamente.",
+    "Se conserva el orden personalizado al volver a abrir la aplicación.",
+    "Compatible con la navegación superior y lateral.",
+    "Se mantiene la opción de restablecer el orden original."
   ],
-  "downloadUrl": "https://github.com/user-attachments/files/35035184/Control_de_Camiones_Actualizacion_1.2.0.zip"
+  "downloadUrl": "https://github.com/TheSeba43/control-camiones-actualizaciones/releases/download/v1.3.0/Control_de_Camiones_Actualizacion_1.3.0.zip"
 }
