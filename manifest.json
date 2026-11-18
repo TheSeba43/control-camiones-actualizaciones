@@ -1,0 +1,11 @@
+{
+  "name": "Control de Camiones",
+  "version": "1.2.0",
+  "releasedAt": "2026-11-18",
+  "summary": "Comprobación de nuevas versiones disponible.",
+  "changes": [
+    "Se agrega comprobación de versiones por manifiesto HTTPS.",
+    "Se muestran las novedades y el enlace de descarga."
+  ],
+  "downloadUrl": "https://github.com/TheSeba43/control-camiones-actualizaciones/releases/download/v1.2.0/Control_de_Camiones_Actualizacion_1.2.0.zip"
+}
