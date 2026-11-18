@@ -1,14 +1,12 @@
 {
   "name": "Control de Camiones",
-  "version": "1.4.0",
+  "version": "1.5.1",
   "releasedAt": "2026-11-18",
-  "summary": "Se incorpora la detección automática de nuevas versiones.",
+  "summary": "Actualización de prueba para verificar la detección y descarga de nuevas versiones.",
   "changes": [
-    "La aplicación comprueba automáticamente si hay actualizaciones disponibles al iniciar.",
-    "Muestra un aviso visible cuando se publica una versión nueva.",
-    "Incluye acceso directo para descargar la actualización.",
-    "Vuelve a comprobar periódicamente cada seis horas.",
-    "La instalación continúa siendo manual y requiere confirmación del encargado."
+    "Prueba controlada del sistema de actualizaciones automáticas.",
+    "Se conserva toda la funcionalidad de la versión 1.5.0.",
+    "No se modifican los datos, registros ni documentos existentes."
   ],
-  "downloadUrl": "https://github.com/TheSeba43/control-camiones-actualizaciones/releases/download/v1.4.0/Control_de_Camiones_Actualizacion_1.4.0.zip"
+  "downloadUrl": "https://github.com/TheSeba43/control-camiones-actualizaciones/releases/download/v1.5.1/Control_de_Camiones_Actualizacion_1.5.1.zip"
 }
