@@ -1,14 +1,14 @@
 {
   "name": "Control de Camiones",
-  "version": "1.3.0",
+  "version": "1.4.0",
   "releasedAt": "2026-11-18",
-  "summary": "Se incorpora el ordenamiento de pestañas mediante arrastrar y soltar.",
+  "summary": "Se incorpora la detección automática de nuevas versiones.",
   "changes": [
-    "Ahora se pueden reordenar las pestañas arrastrándolas y soltándolas, sin usar flechas.",
-    "El orden elegido se guarda automáticamente.",
-    "Se conserva el orden personalizado al volver a abrir la aplicación.",
-    "Compatible con la navegación superior y lateral.",
-    "Se mantiene la opción de restablecer el orden original."
+    "La aplicación comprueba automáticamente si hay actualizaciones disponibles al iniciar.",
+    "Muestra un aviso visible cuando se publica una versión nueva.",
+    "Incluye acceso directo para descargar la actualización.",
+    "Vuelve a comprobar periódicamente cada seis horas.",
+    "La instalación continúa siendo manual y requiere confirmación del encargado."
   ],
-  "downloadUrl": "https://github.com/TheSeba43/control-camiones-actualizaciones/releases/download/v1.3.0/Control_de_Camiones_Actualizacion_1.3.0.zip"
+  "downloadUrl": "https://github.com/TheSeba43/control-camiones-actualizaciones/releases/download/v1.4.0/Control_de_Camiones_Actualizacion_1.4.0.zip"
 }
